@@ -134,3 +134,5 @@ The [Test Anything Protocol](https://testanything.org) is a specification for ou
 ## License ##
 
 Minitest-reporters is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+TMP
